@@ -1,0 +1,51 @@
+[
+    {
+    "bookId": 1,
+    "bookName": "The 7 Habits of Highly Effective People",
+    "author": "Stephen Covey",
+    "image": "https://i.postimg.cc/zBYy9HDm/The-7-Habits-of-Highly-Effective-People.jpg",
+    "review": "Covey presents timeless principles that can transform both personal and professional lives.",
+    "totalPages": 381,
+    "rating": 4.6,
+    "category": "Self-Help",
+    "tags": ["leadership", "effectiveness"],
+    "publisher": "Free Press",
+    "yearOfPublishing": 1989
+  },
+  {
+    "bookId": 2,
+    "bookName": "Mindset",
+    "author": "Carol Dweck",
+    "image": "https://i.postimg.cc/Wz3TKsZL/Mindset.jpg",
+    "review": "Dweck's groundbreaking research on mindset reveals how beliefs about our abilities shape our lives.",
+    "totalPages": 320,
+    "rating": 4.5,
+    "category": "Psychology",
+    "tags": ["growth-mindset", "success"],
+    "publisher": "Ballantine Books",
+    "yearOfPublishing": 2006
+  },
+  {
+    "bookId": 3,
+    "bookName": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "image": "https://i.postimg.cc/GmcwSLnM/Rich-Dad-Poor-Dad.jpg",
+    "review": "Kiyosaki challenges conventional wisdom about money and offers valuable lessons for financial success.",
+    "totalPages": 207,
+    "rating": 4.0,
+    "category": "Finance",
+    "tags": ["wealth", "investing", "finance"],
+    "publisher": "Warner Books",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "image": "https://i.postimg.cc/DfdxpqfT/The-Hard-Thing-About-Hard-Things.png",
+    "review": "Horowitz shares candid insights and practical advice on navigating the challenges of building and leading a startup.",
+    "totalPages": 304,
+    "rating": 4.4,
+    "category": "Business",
+    "tags": ["entrepreneurship", "management"] }
+]
